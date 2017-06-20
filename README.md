@@ -6,7 +6,7 @@ Submitted by: Brandon Baraban
 
 Time spent: 1.5
 
-## User Stories
+## SimpleTodo
 
 The following **required** functionality is completed:
 
@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented SimpleTodo:
 
 ![Walkthrough](VideoWalkthrough.gif)
 
