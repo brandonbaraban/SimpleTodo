@@ -1,10 +1,10 @@
 # Project 1 - SimpleTodo
 
-SimpleTodo is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
+**SimpleTodo** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
 Submitted by: **Brandon Baraban**
 
-Time spent: **1.5**
+Time spent: **1.5** hours spent in total
 
 ## User stories
 
